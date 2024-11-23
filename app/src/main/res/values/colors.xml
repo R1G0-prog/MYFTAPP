@@ -8,7 +8,7 @@
     <!-- Secondary Colors -->
     <color name="secondaryColor">#212121</color> <!-- Dark Gray for secondary highlights -->
     <color name="secondaryLightColor">#616161</color> <!-- Lighter Gray for secondary elements -->
-
+    <color name="ic_launcher_background">#FFFFFF</color>
     <!-- Accent Color -->
     <color name="accentColor">#FFFFFF</color> <!-- White for highlights -->
 
